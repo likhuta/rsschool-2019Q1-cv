@@ -1,1 +1,1 @@
-# https://github.com/likhuta/rsschool-2019Q1-cv
+# https://likhuta.github.io/rsschool-2019Q1-cv/cv
