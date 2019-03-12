@@ -3,13 +3,19 @@ body{
   border: 0.5px solid gray;
   margin: 0 auto;
   background-color: lightgray;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1{
   padding-left: 40px;
 }
 
-footer p{
+img{
   padding-left: 40px;
 
+}
+
+footer p{
+  padding-left: 40px;
+  font-weight: bolder;
 }
